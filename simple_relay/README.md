@@ -32,7 +32,7 @@ Whereas:
    - Design a PCB circuit of a simple relay.
 
 
-#SPECTIFIC OBJECTIVES:
+## SPECTIFIC OBJECTIVES:
    - Design a Schematic circuit and perform simulation.
         - Result:- schematic circuit.
    - Design a PCB circuit.
